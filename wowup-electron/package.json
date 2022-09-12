@@ -10,7 +10,7 @@
   "homepage": "https://wowup.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/WowUp/WowUp.git"
+    "url": "https://github.com/packagedwowaddons/WowUp.git"
   },
   "author": {
     "name": "WowUp LLC",
